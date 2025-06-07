@@ -11,7 +11,7 @@ import (
 	"os"
 
 	"github.com/charmbracelet/colorprofile"
-	"github.com/charmbracelet/glamour"
+	"github.com/markusylisiurunen/glamour"
 )
 
 //go:embed artichokes.md

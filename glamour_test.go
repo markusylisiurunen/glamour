@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/charmbracelet/glamour/styles"
 	"github.com/charmbracelet/x/exp/golden"
+	"github.com/markusylisiurunen/glamour/styles"
 )
 
 const markdown = "testdata/readme.markdown.in"

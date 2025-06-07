@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/charmbracelet/glamour/internal/wordwrap"
+	"github.com/markusylisiurunen/glamour/internal/wordwrap"
 )
 
 // A HeadingElement is used to render headings.
